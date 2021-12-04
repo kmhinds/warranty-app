@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/warranty-app/static/css/main.7982e0d2.chunk.css",
+    "main.js": "/warranty-app/static/js/main.52975a84.chunk.js",
+    "main.js.map": "/warranty-app/static/js/main.52975a84.chunk.js.map",
+    "runtime-main.js": "/warranty-app/static/js/runtime-main.a6113816.js",
+    "runtime-main.js.map": "/warranty-app/static/js/runtime-main.a6113816.js.map",
+    "static/js/2.3d8d3dee.chunk.js": "/warranty-app/static/js/2.3d8d3dee.chunk.js",
+    "static/js/2.3d8d3dee.chunk.js.map": "/warranty-app/static/js/2.3d8d3dee.chunk.js.map",
+    "static/js/3.7debe6da.chunk.js": "/warranty-app/static/js/3.7debe6da.chunk.js",
+    "static/js/3.7debe6da.chunk.js.map": "/warranty-app/static/js/3.7debe6da.chunk.js.map",
+    "index.html": "/warranty-app/index.html",
+    "static/css/main.7982e0d2.chunk.css.map": "/warranty-app/static/css/main.7982e0d2.chunk.css.map",
+    "static/js/2.3d8d3dee.chunk.js.LICENSE.txt": "/warranty-app/static/js/2.3d8d3dee.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a6113816.js",
+    "static/js/2.3d8d3dee.chunk.js",
+    "static/css/main.7982e0d2.chunk.css",
+    "static/js/main.52975a84.chunk.js"
+  ]
+}
