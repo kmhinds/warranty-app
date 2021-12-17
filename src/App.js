@@ -39,7 +39,7 @@ function App() {
     setDisplayList(displayList.filter(str => str !== strToRemove))
   }
 
-  return (
+  const home = (
     <div>
       <header className="my welcome">
           WELCOME
@@ -66,7 +66,21 @@ function App() {
           Total Bad Units
       </button>
       <List list={displayList} handleDelete={handleDelete}/>
+      <a href="/new-page">
+        go to other page
+      </a>
     </div>
+  );
+
+  const page2 = (
+    <div>
+      <h1>PAge2</h1>
+    </div>
+  )
+
+  return (
+    window.location.pathname === "/new-page" ? 
+    page2 : home
   );
 }
 
